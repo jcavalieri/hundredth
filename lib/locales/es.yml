@@ -1,0 +1,102 @@
+en:
+  hundredth:
+    num_1: primero
+    num_2: segundo
+    num_3: tercero
+    num_4: cuarto
+    num_5: quinto
+    num_6: sexto
+    num_7: séptimo
+    num_8: octavo
+    num_9: noveno
+    num_10: décimo
+    num_11: undécimo
+    num_12: duodécimo
+    num_13: decimotercero
+    num_14: decimocuarto
+    num_15: decimoquinto
+    num_16: decimosexto
+    num_17: decimoséptimo
+    num_18: decimoctavo
+    num_19: decimonono
+    num_20: vigésimo
+    num_21: vigésimo primero
+    num_22: vigésimo segundo
+    num_23: vigésimo tercero
+    num_24: vigésimo cuarto
+    num_25: vigésimo quinto
+    num_26: vigésimo sexto
+    num_27: vigésimo séptimo
+    num_28: vigésimo octavo
+    num_29: vigésimo noveno
+    num_30: trigésimo
+    num_31: trigésimo primero
+    num_32: trigésimo segundo
+    num_33: trigésimo tercero
+    num_34: trigésimo cuarto
+    num_35: trigésimo quinto
+    num_36: trigésimo sexto
+    num_37: trigésimo séptimo
+    num_38: trigésimo octavo
+    num_39: trigésimo noveno
+    num_40: cuadragésimo
+    num_41: cuadragésimo primero
+    num_42: cuadragésimo segundo
+    num_43: cuadragésimo tercero
+    num_44: cuadragésimo cuarto
+    num_45: cuadragésimo quinto
+    num_46: cuadragésimo sexto
+    num_47: cuadragésimo séptimo
+    num_48: cuadragésimo octavo
+    num_49: cuadragésimo noveno
+    num_50: quincuagésimo
+    num_51: quincuagésimo primero
+    num_52: quincuagésimo segundo
+    num_53: quincuagésimo tercero
+    num_54: quincuagésimo cuarto
+    num_55: quincuagésimo quinto
+    num_56: quincuagésimo sexto
+    num_57: quincuagésimo séptimo
+    num_58: quincuagésimo octavo
+    num_59: quincuagésimo noveno
+    num_60: sexagésimo
+    num_61: sexagésimo primero
+    num_62: sexagésimo segundo
+    num_63: sexagésimo tercero
+    num_64: sexagésimo cuarto
+    num_65: sexagésimo quinto
+    num_66: sexagésimo sexto
+    num_67: sexagésimo séptimo
+    num_68: sexagésimo octavo
+    num_69: sexagésimo noveno
+    num_70: septuagésimo
+    num_71: septuagésimo primero
+    num_72: septuagésimo segundo
+    num_73: septuagésimo tercero
+    num_74: septuagésimo cuarto
+    num_75: septuagésimo quinto
+    num_76: septuagésimo sexto
+    num_77: septuagésimo séptimo
+    num_78: septuagésimo octavo
+    num_79: septuagésimo noveno
+    num_80: octogésimo
+    num_81: octogésimo primero
+    num_82: octogésimo segundo
+    num_83: octogésimo tercero
+    num_84: octogésimo cuarto
+    num_85: octogésimo quinto
+    num_86: octogésimo sexto
+    num_87: octogésimo séptimo
+    num_88: octogésimo octavo
+    num_89: octogésimo noveno
+    num_90: nonagésimo
+    num_91: nonagésimo primero
+    num_92: nonagésimo segundo
+    num_93: nonagésimo tercero
+    num_94: nonagésimo cuarto
+    num_95: nonagésimo quinto
+    num_96: nonagésimo sexto
+    num_97: nonagésimo séptimo
+    num_98: nonagésimo octavo
+    num_99: nonagésimo noveno
+    num_100: centésimo
