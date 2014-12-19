@@ -1,5 +1,7 @@
 en:
   hundredth:
+    not_an_integer: '%{number} is not an integer and cannot be converted to an ordinal'
+    less_than_one: '%{number} must be one or greater'
     num_1: first
     num_2: second
     num_3: third
