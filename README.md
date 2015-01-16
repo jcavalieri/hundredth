@@ -1,12 +1,13 @@
 # Hundredth
 
-Writes out 1 to 100 full words. 101 and greater are are written out using the number followed by the
-ordinal indicator, e.g. 'st', 'nd', 'rd'.
+Writes out 1 to 100 their full ordinal words. 101 and greater are are written out using the number
+followed by the ordinal indicator, e.g. 'st', 'nd', 'rd'.
 
-For example
+For example:
 1 = first
 2 = second
 100 = hundredth
+101 = 101st
 
 ### Aren't there other ordinal gems?
 Yeah, there are. However, they either are not internationalized or have bugs.

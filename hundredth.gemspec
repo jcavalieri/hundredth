@@ -9,7 +9,16 @@ Gem::Specification.new do |spec|
   spec.authors       = ['John Cavalieri']
   spec.email         = ['john.cavalieri@gmail.com']
   spec.summary       = 'writes out ordinal numbers'
-  spec.description   = "Writes out 1 to 100 full words. 101 and greater are are written out using the number followed by the ordinal indicator, e.g. 'st', 'nd', 'rd'."
+  spec.description   = <<eos
+Writes out 1 to 100 their full ordinal words. 101 and greater are are written out using the number
+followed by the ordinal indicator, e.g. 'st', 'nd', 'rd'.
+
+For example:
+1 = first
+2 = second
+100 = hundredth
+101 = 101st
+eos
   spec.homepage      = 'http://github.com/jcavalieri/hundredth'
   spec.license       = 'MIT'
 
