@@ -5,7 +5,7 @@ require 'hundredth/version'
 
 Gem::Specification.new do |spec|
   spec.name          = 'hundredth'
-  spec.version       = Hundredth::VERSION
+  spec.version       = VERSION
   spec.authors       = ['John Cavalieri']
   spec.email         = ['john.cavalieri@gmail.com']
   spec.summary       = 'writes out ordinal numbers'
@@ -22,6 +22,6 @@ Gem::Specification.new do |spec|
   spec.add_runtime_dependency 'i18n', '~> 0'
 
   spec.add_development_dependency 'bundler', '~> 1.6'
-  spec.add_development_dependency 'rake'
-  spec.add_development_dependency 'minitest'
+  spec.add_development_dependency 'rake','~> 0'
+  spec.add_development_dependency 'minitest', '~> 5.5', '>= 5.5.1'
 end
