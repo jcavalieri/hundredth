@@ -14,7 +14,7 @@ Yeah, there are. However, they either are not internationalized or have bugs.
 
 ### Why didn't you just fix the bugs in other gems?
 Cuz, I took this to be an opportunity to write my own gem to get experience with
-internationalizing a gem and creating a gem with unit test.
+internationalizing a gem and creating a gem with unit tests.
 
 ### What languages are currently supported?
 English
