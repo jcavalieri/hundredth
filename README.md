@@ -12,14 +12,10 @@ For example:
 ### Aren't there other ordinal gems?
 Yeah, there are. However, they either are not internationalized or have bugs.
 
-### Why didn't you just fix the bugs in other gems?
-Cuz, I took this to be an opportunity to write my own gem to get experience with
-internationalizing a gem and creating a gem with unit tests.
-
 ### What languages are currently supported?
-English
-French*
-Spanish*
+* English
+* French *
+* Spanish *
 
 \* Are not supported over 100
 
