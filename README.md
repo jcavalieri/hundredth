@@ -55,7 +55,13 @@ You can also set the default locale:
 ## Contributing
 
 1. Fork it ( https://github.com/jcavalieri/hundredth/fork )
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create a new Pull Request
+1. Create your feature branch (`git checkout -b my-new-feature`)
+1. Make your changes to code and tests
+1. Test it
+    ```
+    bundle install
+    bundle exec ruby -Ilib:test test/*
+    ```
+1. Commit your changes (`git commit -am 'Add some feature'`)
+1. Push to the branch (`git push origin my-new-feature`)
+1. Create a new Pull Request
