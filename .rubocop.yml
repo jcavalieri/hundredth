@@ -3,3 +3,8 @@ Metrics/LineLength:
 
 Metrics/MethodLength:
   Max: 20
+
+
+Metrics/BlockLength:
+  Exclude:
+    - hundredth.gemspec

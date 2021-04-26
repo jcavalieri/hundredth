@@ -1,7 +1,8 @@
 # Hundredth
 
-Writes out 1 to 100 their full ordinal words. 101 and greater are are written out using the number
-followed by the ordinal indicator, e.g. 'st', 'nd', 'rd'.
+Writes out 1 to 100 as ordinal words. For example first, second, third, etc. For numbers 101 and greater are are
+written out using the number followed by the ordinal indicator, e.g. 'st', 'nd', 'rd'. Supported languages are
+English, French, and Spanish.
 
 For example:
 1 = first
